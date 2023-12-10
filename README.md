@@ -1,4 +1,4 @@
-# Saudi Arabia Condo Price Predictions Report
+# Saudi Arabia Condo Price Predictions 
 
 ## Hypothesis:
 In predicting Saudi Arabia condo prices, we hypothesize that the number of bedrooms, the number of beds, and the location will significantly influence the property's rental price. We expect that properties with more bedrooms and beds will have higher rental prices. Additionally, we anticipate that the location of the property will be a crucial factor, with prices varying across different cities in Saudi Arabia.
